@@ -13,8 +13,7 @@
 
 # Github Activity:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srk-sivaramakrishnan&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srk-sivaramakrishnan&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## Socials:
+## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/sivaramakrishnan-d) 
