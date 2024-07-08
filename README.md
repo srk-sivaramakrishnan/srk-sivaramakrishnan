@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sivaramakrishnan D</h1>
 
 # About Me:
+I am a passionate Full Stack Developer with extensive experience in both front-end and back-end development. My expertise spans a variety of modern technologies, enabling me to build robust, scalable, and user-friendly web applications.
+
 🔭 I’m currently working on Various FullStack Projects, including web applications and mobile apps using technologies like React, Node.js, Express.js, and MySQL.<br>👯 I’m looking to collaborate on Innovative web and mobile app development projects, particularly those involving full-stack development.<br>🤝 I’m looking for help with Exploring advanced techniques in web performance optimization and scalable architecture design.<br>🌱 I’m currently learning New frameworks and tools in the JavaScript ecosystem, as well as best practices in cloud computing and DevOps.<br>💬 Ask me about Full-stack development, React, Node.js, Express.js, MySQL, and building efficient and user-friendly applications.<br>📬 How to reach me sivaramakrishnan2703@gmail.com
 
 # GitHub Stats:
