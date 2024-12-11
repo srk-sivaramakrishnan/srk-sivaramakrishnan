@@ -22,7 +22,7 @@
   <a href="mailto:sivaramakrishnan2703@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/srk-sivaramakrishnan" target="_blank">
+  <a href="https://linkedin.com/in/sivaramakrishnan-d" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="#" target="_blank">
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,firebase,mysql,express,java" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,firebase,mysql,express,figma,java" /><br>
 </div>
 
 <br/>
