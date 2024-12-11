@@ -1,25 +1,20 @@
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=srk-sivaramakrishnan.srk-sivaramakrishnan" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sivaramakrishnan!;" />
 </h1>
 
-<h3 align="center">🚀 Frontend maestro crafting captivating user experiences🖥️💡 ✨ Embarking on blockchain 🔗 exploration and Python wizardry🐍 for a tech-powered future.</h3>
+<h3 align="center">🚀 Full Stack Developer crafting efficient and scalable web applications 🖥️💡✨</h3>
 
 <br/>
 
 <div align="center">
 
- 🔭 I’m currently working on **MERN STACK PROJECT**
+ 🔭 I’m currently working on **FULL STACK PROJECT**
  
- 🌱 I’m currently learning **Blockchain, Full Stack Web Development**
+ 🌱 I’m currently learning **Java and MERN STACK**
  
- 🏆 Achievements: **LeetCode badges for consistency and problem-solving**,<br />
-                  **Hackerrank Gold Badges in Python**
-
- 💬 Ask me about **React, Node.js, MongoDB... or anything [here](https://github.com/srk-sivaramakrishnan)**
+ 💬 Ask me about **React, Node.js, MySQL,... or anything [here](https://github.com/srk-sivaramakrishnan)**
 
 </div>
  
@@ -31,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -40,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,mui,tailwind,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,java,python,nodejs,mongodb,express,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,firebase,mysql,express,java" /><br>
 </div>
 
 <br/>
@@ -56,7 +51,7 @@
 <br/><br/>
 <hr />
 
- ![Sivaramakrishnan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=srk-sivaramakrishnan&custom_title=Sivaramakrishnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sivaramakrishnan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=srk-sivaramakrishnan&custom_title=Sivaramakrishnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <hr/>
 <br>
 
