@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Java and MERN STACK**
  
- 💬 Ask me about **React, Node.js, MySQL,... or anything [here](https://github.com/srk-sivaramakrishnan)**
+ 💬 Ask me about **React, Node.js, MySQL,... or anything [here](https://github.com/srk-sivaramakrishnan?tab=repositories)**
 
 </div>
  
