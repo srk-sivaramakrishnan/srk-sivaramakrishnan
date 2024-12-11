@@ -1,21 +1,67 @@
-<h1 align="center">Hi 👋, I'm Sivaramakrishnan D</h1>
-
-# About Me:
-I am a passionate Full Stack Developer with extensive experience in both front-end and back-end development. My expertise spans a variety of modern technologies, enabling me to build robust, scalable, and user-friendly web applications.
-
-🔭 I’m currently working on Various FullStack Projects, including web applications and mobile apps using technologies like React, Node.js, Express.js, and MySQL.<br>👯 I’m looking to collaborate on Innovative web and mobile app development projects, particularly those involving full-stack development.<br>🤝 I’m looking for help with Exploring advanced techniques in web performance optimization and scalable architecture design.<br>🌱 I’m currently learning New frameworks and tools in the JavaScript ecosystem, as well as best practices in cloud computing and DevOps.<br>💬 Ask me about Full-stack development, React, Node.js, Express.js, MySQL, and building efficient and user-friendly applications.<br>📬 How to reach me sivaramakrishnan2703@gmail.com
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=srk-sivaramakrishnan&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-# Language and Tools:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=srk-sivaramakrishnan.srk-sivaramakrishnan" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sivaramakrishnan!;" />
+</h1>
 
-# Github Activity:
-![](https://github-readme-streak-stats.herokuapp.com/?user=srk-sivaramakrishnan&theme=neon&hide_border=false)<br/>
+<h3 align="center">🚀 Frontend maestro crafting captivating user experiences🖥️💡 ✨ Embarking on blockchain 🔗 exploration and Python wizardry🐍 for a tech-powered future.</h3>
 
+<br/>
 
-## Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/sivaramakrishnan-d) 
+<div align="center">
+
+ 🔭 I’m currently working on **MERN STACK PROJECT**
+ 
+ 🌱 I’m currently learning **Blockchain, Full Stack Web Development**
+ 
+ 🏆 Achievements: **LeetCode badges for consistency and problem-solving**,<br />
+                  **Hackerrank Gold Badges in Python**
+
+ 💬 Ask me about **React, Node.js, MongoDB... or anything [here](https://github.com/srk-sivaramakrishnan)**
+
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:sivaramakrishnan2703@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://github.com/srk-sivaramakrishnan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,mui,tailwind,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,java,python,nodejs,mongodb,express,solidity" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=srk-sivaramakrishnan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
+
+<br/><br/>
+<hr />
+
+ ![Sivaramakrishnan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=srk-sivaramakrishnan&custom_title=Sivaramakrishnan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<hr/>
+<br>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
